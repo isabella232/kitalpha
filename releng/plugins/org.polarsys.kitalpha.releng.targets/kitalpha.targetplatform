@@ -90,7 +90,7 @@ location eclipse-release "https://download.eclipse.org/releases/2020-06/" {
 	org.eclipse.emf.cdo.feature.group lazy
 }
 
-location sirius "https://download.eclipse.org/sirius/updates/stable/6.4.0-S20200921-043506/2020-06/" {
+location sirius "https://download.eclipse.org/sirius/updates/stable/6.4.0-S20201102-090526/2020-06/" {
 	org.eclipse.sirius.doc.feature.feature.group lazy
     org.eclipse.sirius.runtime.source.feature.group lazy
     org.eclipse.sirius.runtime.acceleo.feature.group lazy
@@ -146,7 +146,7 @@ location coevolution "https://download.eclipse.org/diffmerge/releases/0.12.0/edm
 	 org.eclipse.emf.diffmerge.coevolution.sdk.feature.source.feature.group lazy
 }
 
-location amalgam "https://download.eclipse.org/modeling/amalgam/updates/stable/1.11.0-S20191007/capella/" {
+location amalgam "https://download.eclipse.org/modeling/amalgam/updates/stable/1.12.0-S20201020/capella/" {
 	org.eclipse.amalgam.explorer.activity.feature.group lazy
 	org.eclipse.amalgam.explorer.activity.source.feature.group lazy
 	org.eclipse.amalgam.explorer.contextual.feature.group lazy
